@@ -1,0 +1,17 @@
+fastapi==0.141.1
+uvicorn==0.52.1
+pandas==3.0.5
+numpy==2.5.2
+scikit-learn==1.9.0
+pydantic==2.13.4
+pydantic-settings==2.15.0
+sqlalchemy==2.0.52
+requests==2.34.2
+python-dotenv==1.2.2
+loguru==0.7.3
+pytest==9.1.1
+yfinance==1.5.2
+streamlit
+plotly
+ccxt
+apscheduler
